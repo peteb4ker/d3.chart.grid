@@ -1,0 +1,22 @@
+{
+  "name": "d3.chart.grid”,
+  "version": "0.1.0",
+  "authors": [
+    "Pete Baker <peteb4ker@gmail.com>"
+  ],
+  "description": "Grid component for d3.chart”,
+  "main": "d3.chart.grid.js",
+  "keywords": [
+    "d3",
+    "chart",
+    “grid”
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
