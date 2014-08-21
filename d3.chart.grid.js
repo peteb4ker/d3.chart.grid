@@ -7,7 +7,7 @@
     /**
      * __Grid component for ```d3.chart``` v0.2 and ```d3.chart.base``` v0.4__
      *
-     * Plots gridlines on a d3.chart.
+     * Plots grid lines on a d3.chart.
      *
      * @namespace d3.chart
      * @class Grid
